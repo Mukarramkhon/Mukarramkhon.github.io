@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+	font-family: georgia;
+	font-size: 7em;
+	color: #fff;
+	text-align:  center;
+}
+h2{
+	font-family: calibri;
+	font-size: 4em;
+	color: #fff;
+	text-align:  center;
+}
+p{
+	font-family: georgia;
+	font-size: 2.5em;
+	color: #fff;
+	text-align:  center;
+}
+
+a:hover{
+	color: blue;
+}
